@@ -64,9 +64,10 @@ dedication.</p>
 - LinkedIn: https://www.linkedin.com/in/ashikul-islam-ifty/
   <br/>
 
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> **Activity Graph &#8595;**
  <a href="https://github.com/ifty03">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mdnaimurrahaman&theme=react-dark" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=ifty03&theme=react-dark" />
  </a>
  <br/>
 
