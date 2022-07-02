@@ -5,9 +5,7 @@
 
 <!-- ## **I'm a Junior Full Stack Software Engineer** -->
 
-<a href="https://github.com/ifty03">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=3000&color=FFFFFF&vCenter=true&width=500&height=80&lines=I+am+a+Programmer;I+am+a+Professional+ graphic+designe;"/>
-</a>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/95164262?v=4" alt="git" width="70" height="70" border-radius: "50" /> </a> </p>
 
 <p>I'm passionate About Graphic Design And Front-End Web Development. I know how important user interface design is in the field of website development.
 I have been working successfully in the Graphic Design sector for the last 4 years. In 2019, I achieved the creative designer award from Paradise IT institutions. I enjoy creative designing & I am interested in learning new technology. I want to join a Professional life to gain exposure, confidence & a sense of
