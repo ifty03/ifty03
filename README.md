@@ -7,10 +7,7 @@
 
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/95164262?v=4" alt="git" width="70" height="70" border-radius: "50" /> </a> </p>
 
-<p>I'm passionate About Graphic Design And Front-End Web Development. I know how important user interface design is in the field of website development.
-I have been working successfully in the Graphic Design sector for the last 4 years. In 2019, I achieved the creative designer award from Paradise IT institutions. I enjoy creative designing & I am interested in learning new technology. I want to join a Professional life to gain exposure, confidence & a sense of
-achievement. I believe in success through hard work &
-dedication.</p>
+<p>I am a MERN Stack web developer. I love to use my creativity and make something new. That's why I love to work with React.js and Sass. Over the last year, I gather knowledge in various parts of web development by myself. My ultimate goal is to become an awesome full-stack web developer who can make beautiful UIs and also can handle the back-end smoothly. Check out some of my works at https://github.com/ifty03</p>
 <hr/>
 
 ## **Connect with Me &#8595;**
