@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/0Dx0WYv/Github-cover.jpg"/>
+<img src="https://i.ibb.co/CsHd5j1/gitup-ashik-bhai-cober.jpg"/>
 
 
 ### **Hi, I'm [Ashikul Islam Ifty][facebook]** :wave:
