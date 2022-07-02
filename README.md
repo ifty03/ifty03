@@ -5,7 +5,7 @@
 
 <!-- ## **I'm a Junior Full Stack Software Engineer** -->
 
-<a href="https://github.com/mdnaimurrahaman">
+<a href="https://github.com/ifty03">
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=3000&color=FFFFFF&vCenter=true&width=500&height=80&lines=I+am+a+Programmer;I+am+a+Professional+ graphic+designe;"/>
 </a>
 
@@ -61,20 +61,18 @@ dedication.</p>
 
 ## **Get in Touch &#8595;**
 
-- Email: mdnaimur.work@gmail.com
-- Facebook: https://web.facebook.com/emon2075
-- LinkedIn: https://www.linkedin.com/in/mdnaimurrahaman
+- Email: ashikulislamifty@gmail.com
+- Facebook: https://www.facebook.com/profile.php?id=100034520089054
+- LinkedIn: https://www.linkedin.com/in/ashikul-islam-ifty/
   <br/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> **Activity Graph &#8595;**
- <a href="https://github.com/mdnaimurrahaman">
+ <a href="https://github.com/ifty03">
   <img src="https://activity-graph.herokuapp.com/graph?username=mdnaimurrahaman&theme=react-dark" />
  </a>
  <br/>
 
-[facebook]: https://web.facebook.com/emon2075 'Facebook'
-[dribbble]: https://dribbble.com/impressdesignry 'Dribbble'
-[linkedin]: https://www.linkedin.com/in/mdnaimurrahaman 'LinkedIn'
-[github]: https://github.com/mdnaimurrahaman 'Github'
-[fiverr]: https://www.fiverr.com/mdnaimur_202 'Fiverr'
-[link]:  https://github.com/mdnaimurrahaman
+[facebook]: https://www.facebook.com/profile.php?id=100034520089054 'Facebook'
+[linkedin]: https://www.linkedin.com/in/ashikul-islam-ifty/ 'LinkedIn'
+[github]: https://github.com/ifty03 'Github'
+[link]:  https://github.com/ifty03
