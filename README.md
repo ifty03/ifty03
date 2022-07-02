@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/0Dx0WYv/Github-cover.jpg"/>
 
 
-### **Hi, I'm [Ashikul Islam Ifty][https://www.facebook.com/profile.php?id=100034520089054]** :wave:
+### **Hi, I'm [Ashikul Islam Ifty][facebook]** :wave:
 
 <!-- ## **I'm a Junior Full Stack Software Engineer** -->
 
