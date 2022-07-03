@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/95164262?v=4" alt="git" width="70" height="70" border-radius: "50" /> </a> </p>
 
-<p>I am a MERN Stack web developer. I love to use my creativity and make something new. That's why I love to work with React.js and Sass. Over the last year, I gather knowledge in various parts of web development by myself. My ultimate goal is to become an awesome full-stack web developer who can make beautiful UIs and also can handle the back-end smoothly. Check out some of my works at https://github.com/ifty03</p>
+<p>I am a MERN Stack web developer. I love to use my creativity and make something new. That's why I love to work with React.js and Tailwindcss. Over the last year, I gather knowledge in various parts of web development by myself. My ultimate goal is to become an awesome full-stack web developer who can make beautiful UIs and also can handle the back-end smoothly. Check out some of my works at https://github.com/ifty03</p>
 <hr/>
 
 ## **Connect with Me &#8595;**
