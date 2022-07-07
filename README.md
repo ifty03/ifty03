@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/CsHd5j1/gitup-ashik-bhai-cober.jpg"/>
+<img src="https://img.freepik.com/free-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5572.jpg?w=2000"/>
 
 
 ### **Hi, I'm [Ashikul Islam Ifty][facebook]** :wave:
