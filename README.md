@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5572.jpg?w=2000"/>
+<img src="https://ibb.co/pQbgDKs"/>
 
 
 ### **Hi, I'm [Ashikul Islam Ifty][facebook]** :wave:
