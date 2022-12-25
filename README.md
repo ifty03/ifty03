@@ -1,4 +1,4 @@
-<img src="https://ibb.co/NL5TfRr"/>
+<img src="https://i.ibb.co/dtjS9p3/gitup-ashik-bhai-cober.jpg"/>
 
 
 ### **Hi, I'm [Ashikul Islam Ifty][facebook]** :wave:
